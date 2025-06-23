@@ -2,7 +2,7 @@
 
 🎯 Data Scientist | Machine Learning Engineer | Problem Solver  
 📍 Visakhapatnam, India  
-📧 dushyanth25ds@gmail.com | 📱 +91-8919199670  
+📧  | 📱 +91-  
 🔗 [LinkedIn](https://www.linkedin.com/in/##########/)
 
 ---
