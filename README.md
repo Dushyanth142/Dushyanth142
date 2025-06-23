@@ -1,13 +1,66 @@
-<h1 align="center">Hi 👋, I'm T.Dushyanth Raju</h1>
-<h3 align="center">A passionate Data scientist from India</h3>
+# 👋 Hi, I'm Dushyanth Raju T
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dushyanth142&label=Profile%20views&color=0e75b6&style=flat" alt="dushyanth142" /> </p>
+🎯 Data Scientist | Machine Learning Engineer | Problem Solver  
+📍 Visakhapatnam, India  
+📧 dushyanth25ds@gmail.com | 📱 +91-8919199670  
+🔗 [LinkedIn](https://www.linkedin.com/in/##########/)
 
-- 🔭 I’m currently working on **ML and DL projects**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I'm a Data Scientist with **3 years of experience** building intelligent systems that solve real-world problems in **manufacturing, warranty fraud detection, and document analysis**. I specialize in:
+
+- Developing ML pipelines with clean, production-ready code
+- Applying Deep Learning (CNNs) to image-based defect detection
+- Building NLP models using Transformer-based architectures (Hugging Face)
+- Performing feature engineering, model evaluation, and EDA
+
+I love working with data, building tools that make life easier, and learning continuously.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔧 Languages & Libraries
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 🔍 [Fraud Warranty Claims Detection](https://github.com/yourusername/fraud-warranty-claims)  
+> Classification of genuine vs fraudulent warranty claims using ensemble models.  
+> 📊 EDA • Feature Engineering • Model Evaluation • SMOTE
+
+### 🛠️ [Defect Detection in Mechanical Components](https://github.com/yourusername/cnn-defect-detector)  
+> Deep learning system using CNNs to detect visual defects like cracks, dents, and scratches.  
+> 🖼️ CNN • Image Augmentation • TensorFlow • Keras
+
+### 📘 [Technical Document QA System](https://github.com/yourusername/document-question-answering)  
+> NLP system that extracts accurate answers from engineering manuals using Hugging Face Transformers.  
+> 🤖 BERT QA • PDF Parsing • Streamlit
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 dushyanth25ds@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/##########/)  
+- 💼 [Resume](#) (optional)
+
+---
+
+⭐ If you like what I do, consider giving my repos a ⭐ or connecting with me on LinkedIn!
