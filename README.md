@@ -57,7 +57,7 @@ I love working with data, building tools that make life easier, and learning con
 
 ## 📫 Let's Connect!
 
-- 📧 dushyanth25ds@gmail.com  
+- 📧 dushyanth  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/##########/)  
 - 💼 [Resume](#) (optional)
 
