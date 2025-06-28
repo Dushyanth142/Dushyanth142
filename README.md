@@ -1,28 +1,26 @@
 # 👋 Hi, I'm Dushyanth Raju T
 
-🎯 Data Scientist | Machine Learning Engineer | Problem Solver  
-📍 Visakhapatnam, India  
-📧  | 📱 +91-  
-🔗 [LinkedIn](https://www.linkedin.com/in/##########/)
+🎯 Machine Learning Enthusiast | NLP Practitioner | Cloud Deployment Learner  
+📍 Based in Visakhapatnam, India
 
 ---
 
 ## 🚀 About Me
 
-I'm a Data Scientist with **3 years of experience** building intelligent systems that solve real-world problems in **manufacturing, warranty fraud detection, and document analysis**. I specialize in:
+I'm passionate about building intelligent systems using machine learning and deep learning techniques.  
+My key focus is in **Natural Language Processing**, **model deployment**, and creating **end-to-end ML applications** that work in real-world scenarios.
 
-- Developing ML pipelines with clean, production-ready code
-- Applying Deep Learning (CNNs) to image-based defect detection
-- Building NLP models using Transformer-based architectures (Hugging Face)
-- Performing feature engineering, model evaluation, and EDA
-
-I love working with data, building tools that make life easier, and learning continuously.
+🔍 I enjoy working on:
+- NLP tasks like text classification, sentiment analysis, and question answering  
+- ML use cases like regression, classification, and fraud detection  
+- Deploying interactive apps using **Streamlit** and **Flask**  
+- Experimenting with CNNs for image-based projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔧 Languages & Libraries
+### 🔧 Languages & Libraries  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
@@ -31,7 +29,7 @@ I love working with data, building tools that make life easier, and learning con
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
 
-### 🧰 Tools & Platforms
+### 🧰 Tools & Platforms  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -39,28 +37,43 @@ I love working with data, building tools that make life easier, and learning con
 
 ---
 
-## 📂 Featured Projects
+## 📂 Notable Projects
 
-### 🔍 [Fraud Warranty Claims Detection](https://github.com/yourusername/fraud-warranty-claims)  
-> Classification of genuine vs fraudulent warranty claims using ensemble models.  
-> 📊 EDA • Feature Engineering • Model Evaluation • SMOTE
-
-### 🛠️ [Defect Detection in Mechanical Components](https://github.com/yourusername/cnn-defect-detector)  
-> Deep learning system using CNNs to detect visual defects like cracks, dents, and scratches.  
-> 🖼️ CNN • Image Augmentation • TensorFlow • Keras
-
-### 📘 [Technical Document QA System](https://github.com/yourusername/document-question-answering)  
-> NLP system that extracts accurate answers from engineering manuals using Hugging Face Transformers.  
-> 🤖 BERT QA • PDF Parsing • Streamlit
+### 📊 [ML Regression with Deployment](https://github.com/Dushyanth142/ML-Regression-project-with-Deployment)  
+> A complete ML regression pipeline with preprocessing, model training, and deployment using Streamlit.  
+> 📌 Linear Regression • Scikit-learn • Streamlit UI • Docker-ready
 
 ---
 
-## 📫 Let's Connect!
-
-- 📧 dushyanth  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/##########/)  
-- 💼 [Resume](#) (optional)
+### 📧 [Email Classification Project](https://github.com/Dushyanth142/Email-classification-project)  
+> NLP-based spam/ham email classifier using TF-IDF and Naive Bayes.  
+> 📌 Text Preprocessing • Feature Extraction • Model Training • Streamlit Deployment
 
 ---
 
-⭐ If you like what I do, consider giving my repos a ⭐ or connecting with me on LinkedIn!
+### 🎬 [IMDB Sentiment Classification](https://github.com/Dushyanth142/IMDB-NLP-Project)  
+> Sentiment analysis on movie reviews using LSTM-based deep learning models.  
+> 📌 TensorFlow • Tokenization • Padding • RNNs (LSTM)
+
+---
+
+### 🦠 [Malaria Detection using CNN](https://github.com/Dushyanth142/Malaria-Detection-CNN)  
+> CNN-based classifier for detecting malaria from red blood cell images.  
+> 📌 Image Augmentation • Keras CNN • Binary Classification
+
+---
+
+### 🤖 [Extractive Question Answering](https://github.com/Dushyanth142/Extractive-Question-Answering)  
+> Built a QA model using Hugging Face Transformers to extract answers from context.  
+> 📌 BERT • Transformers • NLP • Streamlit Interface
+
+---
+
+## 🧠 Let's Collaborate!
+
+I’m always open to connecting with others working in ML, NLP, and AI spaces.  
+If you find any of my projects useful or inspiring, feel free to ⭐ star them or fork for your own learning!
+
+---
+
+📌 *This profile is always evolving — stay tuned for new projects and ideas!*
