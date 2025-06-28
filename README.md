@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dushyanth Raju T
 
-🎯 Machine Learning Enthusiast | NLP Practitioner | Cloud Deployment Learner  
+🎯 Data Scientist | NLP Practitioner | Cloud Deployment Learner  
 📍 Based in Visakhapatnam, India
 
 ---
